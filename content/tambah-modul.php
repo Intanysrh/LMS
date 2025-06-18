@@ -161,6 +161,7 @@ if (isset($_POST['save'])) {
                                     </select>
                                 </div>
                             </div>
+
                             <div align="right" class="mb-3">
                                 <button type="button" class="btn btn-primary addRow">Add Row</button>
                             </div>
